@@ -1,0 +1,210 @@
+
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+    margin: 0 auto;
+
+}
+
+.main-content {
+    background: #ede0e0a8;
+    box-shadow: 6px 6px 20px rgb(0 0 0 / 10%);
+    padding: 105px 90px;
+    
+}
+
+
+body {
+    font-family: 'Exo', sans-serif;
+    font-family: 'IBM Plex Sans KR', sans-serif;
+    background-color: #f5f7fa;
+    display: block;
+    margin: 8px;
+}
+
+
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+.work-position {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+}
+
+.work-list {
+    padding: 0;
+    padding-left: 5px;
+}
+
+.organization {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #e06411;
+}
+
+
+.education-place {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+    margin-top: 15px;
+}
+
+.education {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-top: 15px;
+}
+ 
+div {
+    display: block;
+}
+
+ol {
+    display: block;
+    list-style-type: decimal;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+} 
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+.side-bar {
+    background-color: rgb(153, 145, 231);
+    padding-top: 40px;
+}
+
+.sidebar-title {
+    color: rgb(8, 8, 8);
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+aside {
+    display: block
+    
+
+}
+
+.photo {
+    width: 350px;
+    padding-bottom: 50px;
+}
+
+.contacts {
+    margin-bottom: 50px;
+    color: black;
+    margin-left: 48px;
+}
+
+.contact-type {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0a0a0a;
+    margin-right: 5px;
+}
+
+.contact-link {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+
+.tech-skills, .softskills {
+    padding-left: 45px;
+}
+
+.techskills-list, .softskill-text {
+    color: bisque;
+    margin-left: 25px;
+}
+
+.tech-skills-item, .softskill-item {
+    color: #FB6D3A;
+}
+
+.tech-skills-text, .softskill-list {
+    color: azure;
+}
